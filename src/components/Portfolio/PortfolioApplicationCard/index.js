@@ -16,7 +16,7 @@ function PortfolioApplicationCard(props) {
             <strong>Email:</strong> {props.email}
           </li>
           <li>
-            <strong>Message:</strong> {props.message}
+            <strong>Technology:</strong> {props.message}
           </li>
         </ul>
       </div>

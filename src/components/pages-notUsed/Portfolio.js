@@ -1,13 +1,14 @@
-import React from "react";
+// import React from "react";
+import React, { useState } from 'react';
 import PortfolioApplicationCard from '../components/PortfolioApplicationCard';
 import Wrapper from '../components/Wrapper';
 import portfolioApplications from '../portfolioApplications.json';
-import './App.css';
+// import './App.css';
 
 function Portfolio() {
 
-<h1> portfolio in workk.. </h1>
-  // const [portfolionApplicationsList, setPortfolioApplicationsList] = useState(portfolioApplications);
+<h1> portfolio in work.. </h1>
+  // const [portfolioApplicationsList, setPortfolioApplicationsList] = useState(portfolioApplications);
 
   //  return (
   //   <Wrapper>
