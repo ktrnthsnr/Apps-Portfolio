@@ -28,7 +28,7 @@ function PortfolioContainer() {
     <header>
       <h2>
           <a href="/">
-              <span role="img" aria-label=""></span>Asa Katarina Porfolio
+              <span role="img" aria-label=""></span>Asa Katarina's Porfolio
           </a>
       </h2>
       <nav>

@@ -3,15 +3,15 @@ import React, { useState } from 'react';
 import PortfolioApplicationCard from './PortfolioApplicationCard';
 import Wrapper from './Wrapper';
 import portfolioApplications from './portfolioApplications.json';
-// import './App.css';
+// import "./style.css";
 
 function Portfolio() {
-  const [portfolioApplicationsList, setPortfolioApplicationsList] = useState(portfolioApplications);
+  const [portfolioApplicationsList, setPortfolioApplicationList] = useState(portfolioApplications);
 
    return (
     <Wrapper>
       <p>____________________________</p>
-      <h1 className="title">Portfolio Applications</h1>
+      <h5 className="title">Portfolio Applications</h5>
       <p>_____________________________</p>
       {portfolioApplicationsList.map(portfolioApplication => (
         <PortfolioApplicationCard

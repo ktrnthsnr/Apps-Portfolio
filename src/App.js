@@ -1,5 +1,4 @@
-// import React from "react";
-import React, { useState } from 'react';
+import React from "react";
 import PortfolioContainer from "./components/PortfolioContainer";
 
 // main nav

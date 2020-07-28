@@ -2,9 +2,9 @@ import React from "react";
 
 const Contact = () => (
   <div>
-    <h1>Contact Page</h1>
+    <h1>Contact Info</h1>
     <p>
-      Insert form here, with Name, Email, Message.
+      Email: asathsnr@gmail.com   
     </p>
   </div>
 );

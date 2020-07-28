@@ -2,42 +2,42 @@
   {
     "id": 1,
     "name": "RunBuddy",
-    "image": "https://ktrnthsnr.github.io/run-buddy/",
+    "image": "placeholder",
     "email": "asathsnr@gmail.com",
     "message": "HTML CSS"
   },
   {
     "id": 2,
     "name": "Zookeepr",
-    "image": "https://ktrnthsnr-zookeeper.herokuapp.com/",
+    "image": "placeholder",
     "email": "asathsnr@gmail.com",
     "message": "Node.js Express"
   },
   {
     "id": 3,
     "name": "Placeholder",
-    "image": "https://ktrnthsnr-zookeeper.herokuapp.com/",
+    "image": "placeholder",
     "email": "asathsnr@gmail.com",
     "message": "Node.js Express"
   },
   {
     "id": 4,
     "name": "Placeholder",
-    "image": "https://ktrnthsnr-zookeeper.herokuapp.com/",
+    "image": "placeholder",
     "email": "asathsnr@gmail.com",
     "message": "Node.js Express"
   },
   {
     "id": 5,
     "name": "Placeholder",
-    "image": "https://ktrnthsnr-zookeeper.herokuapp.com/",
+    "image": "placeholder",
     "email": "asathsnr@gmail.com",
     "message": "Node.js Express"
   },
   {
     "id": 6,
     "name": "Placeholder",
-    "image": "https://ktrnthsnr-zookeeper.herokuapp.com/",
+    "image": "placeholder",
     "email": "asathsnr@gmail.com",
     "message": "Node.js Express"
   }
