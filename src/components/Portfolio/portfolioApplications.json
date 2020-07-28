@@ -3,42 +3,42 @@
     "id": 1,
     "name": "RunBuddy",
     "image": "placeholder",
-    "email": "asathsnr@gmail.com",
-    "message": "HTML CSS"
+    "websiteurl": "https://ktrnthsnr.github.io/run-buddy/",
+    "github": "https://github.com/ktrnthsnr/run-buddy"
   },
   {
     "id": 2,
     "name": "Zookeepr",
     "image": "placeholder",
-    "email": "asathsnr@gmail.com",
-    "message": "Node.js Express"
+    "websiteurl": "https://placeholder.com",
+    "github": "https://placeholder.com"
   },
   {
     "id": 3,
     "name": "Placeholder",
     "image": "placeholder",
-    "email": "asathsnr@gmail.com",
-    "message": "Node.js Express"
+    "websiteurl": "https://placeholder.com",
+    "github": "https://placeholder.com"
   },
   {
     "id": 4,
     "name": "Placeholder",
     "image": "placeholder",
-    "email": "asathsnr@gmail.com",
-    "message": "Node.js Express"
+    "websiteurl": "https://placeholder.com",
+    "github": "https://placeholder.com"
   },
   {
     "id": 5,
     "name": "Placeholder",
     "image": "placeholder",
-    "email": "asathsnr@gmail.com",
-    "message": "Node.js Express"
+    "websiteurl": "https://placeholder.com",
+    "github": "https://placeholder.com"
   },
   {
     "id": 6,
     "name": "Placeholder",
     "image": "placeholder",
-    "email": "asathsnr@gmail.com",
-    "message": "Node.js Express"
+    "websiteurl": "https://placeholder.com",
+    "github": "https://placeholder.com"
   }
 ]

@@ -1,5 +1,6 @@
 import React from 'react';
 import './style.css';
+// import './images';
 
 function PortfolioApplicationCard(props) {
   return (
@@ -13,10 +14,10 @@ function PortfolioApplicationCard(props) {
             <strong>Name:</strong> {props.name}
           </li>
           <li>
-            <strong>Email:</strong> {props.email}
+            <strong>Website:</strong> {props.websiteurl}
           </li>
           <li>
-            <strong>Technology:</strong> {props.message}
+            <strong>GitHub:</strong> {props.github}
           </li>
         </ul>
       </div>

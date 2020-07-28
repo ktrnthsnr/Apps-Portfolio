@@ -10,17 +10,18 @@ function Portfolio() {
 
    return (
     <Wrapper>
-      <p>____________________________</p>
+      <p>______________________________________________________</p>
       <h5 className="title">Portfolio Applications</h5>
-      <p>_____________________________</p>
+      <p>______________________________________________________</p>
+      <p></p>
       {portfolioApplicationsList.map(portfolioApplication => (
         <PortfolioApplicationCard
           id={portfolioApplication.id}
           key={portfolioApplication.id}
           name={portfolioApplication.name}
           image={portfolioApplication.image}
-          email={portfolioApplication.email}
-          message={portfolioApplication.message}
+          websiteurl={portfolioApplication.websiteurl}
+          github={portfolioApplication.github}
         />
       ))}
     </Wrapper>

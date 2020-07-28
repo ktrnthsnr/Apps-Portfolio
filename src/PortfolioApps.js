@@ -21,6 +21,7 @@ function PortfolioApps() {
   return (
     <Wrapper>
       <h1 className="title">PortfolioApplications List</h1>
+      <p></p>
       {portfolioAppssList.map(portfolioApps => (
         <PortfolioApplicationCard
           removePortfolioApplication={removePortfolioApplication}
@@ -28,8 +29,8 @@ function PortfolioApps() {
           key={portfolioApps.id}
           name={portfolioApps.name}
           image={portfolioApps.image}
-          email={portfolioApps.email}
-          message={portfolioApps.message}
+          websiteurl={portfolioApps.websiteurl}
+          github={portfolioApps.github}
         />
       ))}
     </Wrapper>
