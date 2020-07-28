@@ -18,7 +18,9 @@ You can remove files not used, such as src/logo.svg and app.test.js.
 4. (Asset and helpers code was provided for this project, added to public/src/*)
 
 5. To add a React component,
+
     * Create a folder src/components, and add the folder + index.js. Here is one sample, `src/components/About/index.js`. And export the component.
+
     * Then update App.js with a function and import. Here is a sample, `src/App.js`
         * a new function and 
         * import the component
@@ -37,13 +39,8 @@ You can remove files not used, such as src/logo.svg and app.test.js.
             "start": "react-scripts start",
             "build": "react-scripts build",
             "test": "react-scripts test",
-            "eject": "react-scripts eject"
-    
+            "eject": "react-scripts eject" 
 
-    `npm start`
-        Starts dev server
-
-    `npm run build`
         Bundles app to static files for prod
 
     ` npm test`
