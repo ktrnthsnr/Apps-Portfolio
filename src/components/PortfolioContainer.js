@@ -6,7 +6,7 @@ import AboutMe from './AboutMe';
 import Portfolio from './Portfolio';
 import Resume from './Resume';
 import Contact from './Contact';
-// import "./PortfolioContainer.css";
+import "./PortfolioContainer.css";
 
 function PortfolioContainer() {
   const [currentPage, handlePageChange] = useState('AboutMe');
@@ -28,7 +28,7 @@ function PortfolioContainer() {
   return (
     <header>
       <h2>
-          <a href="/">
+          <a href="https://ktrnthsnr.github.io/Apps-Portfolio/#aboutme">
               <span role="img" aria-label=""></span>Katarina Thisner's Porfolio
           </a>
       </h2>

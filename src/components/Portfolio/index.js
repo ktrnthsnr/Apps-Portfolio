@@ -6,7 +6,7 @@ import portfolioApplications from './portfolioApplications.json';
 // import "./style.css";
 
 function Portfolio() {
-  const [portfolioApplicationsList, setPortfolioApplicationList] = useState(portfolioApplications);
+  const [portfolioApplicationsList] = useState(portfolioApplications);
 
    return (
     <Wrapper>
