@@ -20,9 +20,6 @@ function PortfolioApplicationCard(props) {
           </li>
         </ul>
       </div>
-      <span onClick={() => props.removePortfolioApplication(props.id)} className="remove">
-        𝘅
-      </span>
     </div>
   );
 }

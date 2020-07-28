@@ -1,6 +1,6 @@
 import React from 'react';
 
-function NavTabs(props) {
+function NavSections(props) {
   const tabs = ['AboutMe', 'Portfolio', 'Resume', 'Contact'];
   return (
     <ul className="nav nav-tabs">
@@ -21,4 +21,4 @@ function NavTabs(props) {
   );
 }
 
-export default NavTabs;
+export default NavSections;
