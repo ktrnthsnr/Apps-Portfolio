@@ -14,7 +14,7 @@ function PortfolioContainer() {
     switch (currentPage) {
       case 'Portfolio':
         return <Portfolio />;
-        const App = () => <Portfolio />;
+        // const App = () => <Portfolio />;
       case 'Contact':
         return <Contact />;
       case 'Resume':
@@ -25,10 +25,19 @@ function PortfolioContainer() {
   };
 
   return (
-    <div>
-      <NavSections currentPage={currentPage} handlePageChange={handlePageChange} />
-      <div>{renderPage(currentPage)}</div>
-    </div>
+    <header>
+      <h2>
+          <a href="/">
+              <span role="img" aria-label=""></span>Asa Katarina Porfolio
+          </a>
+      </h2>
+      <nav>
+        <div>
+          <NavSections currentPage={currentPage} handlePageChange={handlePageChange} />
+          <div>{renderPage(currentPage)}</div>
+        </div>
+      </nav>
+    </header>
   );
 }
 
