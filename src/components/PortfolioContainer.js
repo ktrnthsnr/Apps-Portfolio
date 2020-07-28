@@ -6,6 +6,7 @@ import AboutMe from './AboutMe';
 import Portfolio from './Portfolio';
 import Resume from './Resume';
 import Contact from './Contact';
+// import "./PortfolioContainer.css";
 
 function PortfolioContainer() {
   const [currentPage, handlePageChange] = useState('AboutMe');
@@ -28,13 +29,14 @@ function PortfolioContainer() {
     <header>
       <h2>
           <a href="/">
-              <span role="img" aria-label=""></span>Asa Katarina's Porfolio
+              <span role="img" aria-label=""></span>Katarina Thisner's Porfolio
           </a>
       </h2>
       <nav>
         <div>
           <NavSections currentPage={currentPage} handlePageChange={handlePageChange} />
-          <div>{renderPage(currentPage)}</div>
+          {/* <div>{renderPage(currentPage)}</div> */}
+          <div style={{ backgroundImage: `url(require("./bluesq.svg"))` }}>{renderPage(currentPage)}</div>
         </div>
       </nav>
     </header>

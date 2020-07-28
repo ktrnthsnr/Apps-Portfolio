@@ -10,9 +10,8 @@ function Portfolio() {
 
    return (
     <Wrapper>
-      <p>______________________________________________________</p>
-      <h5 className="title">Portfolio Applications</h5>
-      <p>______________________________________________________</p>
+      <p></p>
+      <h5 className="title">Portfolio Applications</h5>      
       <p></p>
       {portfolioApplicationsList.map(portfolioApplication => (
         <PortfolioApplicationCard

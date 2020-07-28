@@ -20,7 +20,7 @@ function PortfolioApps() {
 
   return (
     <Wrapper>
-      <h1 className="title">PortfolioApplications List</h1>
+      <h1 className="title">Portfolio Applications</h1>
       <p></p>
       {portfolioAppssList.map(portfolioApps => (
         <PortfolioApplicationCard

@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "name": "RunBuddy",
-    "image": "placeholder",
-    "websiteurl": "https://ktrnthsnr.github.io/run-buddy/",
-    "github": "https://github.com/ktrnthsnr/run-buddy"
+    "name": "JAK Eats",
+    "image": "https://github.com/ktrnthsnr/JAK-eats/raw/master/assets/images/JAK.gif",
+    "websiteurl": "https://ktrnthsnr.github.io/JAK-eats",
+    "github": "https://github.com/ktrnthsnr/JAK-eats"
   },
   {
     "id": 2,
-    "name": "Zookeepr",
-    "image": "placeholder",
-    "websiteurl": "https://placeholder.com",
-    "github": "https://placeholder.com"
+    "name": "Techly Blog",
+    "image": "https://github.com/ktrnthsnr/Techly-KND/raw/master/assets/images/Techly-KND.jpg",
+    "websiteurl": "https://ktrnthsnr-techly.herokuapp.com/",
+    "github": "https://github.com/ktrnthsnr/Techly-KND"
   },
   {
     "id": 3,
-    "name": "Placeholder",
-    "image": "placeholder",
-    "websiteurl": "https://placeholder.com",
-    "github": "https://placeholder.com"
+    "name": "Food Festival",
+    "image": "https://github.com/ktrnthsnr/food-festival/raw/master/img/FoodFestival.jpg",
+    "websiteurl": "https://ktrnthsnr.github.io/food-festival",
+    "github": "https://github.com/ktrnthsnr/food-festival"
   },
   {
     "id": 4,
-    "name": "Placeholder",
-    "image": "placeholder",
-    "websiteurl": "https://placeholder.com",
-    "github": "https://placeholder.com"
+    "name": "Budget Tracker",
+    "image": "https://raw.githubusercontent.com/ktrnthsnr/Budget-Tracker/master/budgettrackerWeb.jpg",
+    "websiteurl": "https://ktrnthsnr-budget-tracker.herokuapp.com/",
+    "github": "https://github.com/ktrnthsnr/Budget-Tracker"
   },
   {
     "id": 5,
-    "name": "Placeholder",
-    "image": "placeholder",
-    "websiteurl": "https://placeholder.com",
-    "github": "https://placeholder.com"
+    "name": "Weather by the City",
+    "image": "https://github.com/ktrnthsnr/weather-by-city/raw/master/assets/images/weather-by-city.jpg",
+    "websiteurl": "https://ktrnthsnr.github.io/weather-by-city",
+    "github": "https://github.com/ktrnthsnr/weather-by-city"
   },
   {
     "id": 6,
-    "name": "Placeholder",
-    "image": "placeholder",
-    "websiteurl": "https://placeholder.com",
-    "github": "https://placeholder.com"
+    "name": "Pizza Hunt",
+    "image": "https://github.com/ktrnthsnr/pizza-hunt/raw/master/img/createpizza.jpg",
+    "websiteurl": "https://ktrnthsnr-pizza-hunt.herokuapp.com/",
+    "github": "https://github.com/ktrnthsnr/pizza-hunt"
   }
 ]

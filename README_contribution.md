@@ -60,7 +60,11 @@ React, Node.js, JavaScript, ES6npm, create-react-app, React Testing Library, jes
 
 ## React
 
+* See React-notes.md for more info on basic installation for React CLI
 
+* Application Image links
+Run Buddy
+![Run Buddy](src\components\Portfolio\Images\runbuddy.jpg "Run Buddy")
 
 ## Contribution
 
