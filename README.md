@@ -1,6 +1,6 @@
 ﻿# Apps-Portfolio - Katarina Thisner
 
-Single-page portfolio application using React state, props, Hooks, and reusable UI components.
+Personal portfolio of websites and server-side applications created this year. This website was creating using the JavaScript ReactJS web framework, state, props, Hooks, and reusable UI components.
 
 ## GitHub URL
 
