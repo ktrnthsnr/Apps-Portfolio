@@ -18,9 +18,12 @@ const Resume = () => (
         <li>Bootstrap</li>
         <li>Handlebars</li>
         <li>Local Storage</li>
-        <li>Progressive Web Application </li>
+        <li>Progressive Web Application</li>
         <li>Service Worker</li>
         <li>IndexedDB</li>
+        <li>Apollo</li>
+        <li>GraphQL</li>
+        <li>JSON Web Token</li>
       </ul>
       <p></p>
     <h5>Server Side</h5>
@@ -60,6 +63,10 @@ const Resume = () => (
       <li>Data Structures</li>
       <li>Algorithms</li>
     </ul>
+    <p></p>
+    <p></p>
+    <p> <a href="https://www.linkedin.com/in/akatarinathisner/">www.linkedin.com/in/akatarinathisner</a> </p>
+    <p> <a href="https://github.com/ktrnthsnr">github.com/ktrnthsnr</a> </p>
 </div>
 );
 

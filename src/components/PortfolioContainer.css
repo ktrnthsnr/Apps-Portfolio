@@ -1,19 +1,19 @@
  /* add color variables */
  :root {
-  --dark-blue: #29364F;
+  --dark-blue: #070f1d;
   --light-blue: #A0CFEC;
   --blue: #357EC7;
   --dark-brown: #654321;
   --offgreen: #1D6768;
   --white: #F9EDED;
-  --black: #181B26;
+  --black: #8d91a1;
   --beige: beige;      
   --red: #ff0000;
   --chocolate: #D2691E;
   --brown: #A52A2A;
   --siena: #882d17;
   --orange: coral;
-  --bright-blue: blue;
+  --bright-blue: rgb(127, 127, 211);
   --main-padding: 15px;
   --fontfamilyTimes: "Times New Roman", Times, serif;
   --fontfamilyGill: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -33,7 +33,6 @@ html, body, #root {
     height: 100%;
     background: #f1f5f8;
     color: var(--dark-blue);
-    /* background: url("./bluesq.jpg"); */
   }
 
 h1,
@@ -83,18 +82,15 @@ a {
 }
 
 body {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
   font-size: 14px;
   line-height: 1.5;
   color: #24292e;
   background-color: #fff;
   padding-left:8px;
   padding-right:8px;
-}
-
-body {
   margin: 50px;
-  background-color: var(--siena);
+  /* background-color: var(--siena); */
 }
 
 ul {

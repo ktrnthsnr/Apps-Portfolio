@@ -2,9 +2,7 @@
 import React, { useState } from 'react';
 import PortfolioContainer from "./components/PortfolioContainer";
 
-
 // add card 
-
 import PortfolioApplicationCard from './components/PortfolioApplicationCard';
 import Wrapper from './components/Wrapper';
 import portfolioAppss from './portfolioAppss.json';
@@ -12,7 +10,6 @@ import './App.css';
 
 function PortfolioApps() {
   const [portfolioAppssList, setPortfolioApplicationsList] = useState(portfolioAppss);
-
   const removePortfolioApplication = id => {
     const newList = portfolioAppssList.filter(portfolioApps => portfolioApps.id !== id);
     setPortfolioApplicationsList(newList);

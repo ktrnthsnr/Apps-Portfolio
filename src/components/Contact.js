@@ -2,17 +2,15 @@ import React from "react";
 
 const Contact = () => (
   <div>
-    <p></p>
-    <h5>Contact Page</h5>
-    <p></p>
-    <p></p>
-    <p></p>
-      <p>Email: asathsnr@gmail.com</p>
+      <p></p> 
+      <h5>Contact</h5>
       <p></p>
-      <p>LinkedIn: https://www.linkedin.com/in/akatarinathisner/</p>
       <p></p>
-      <p>Github: https://github.com/ktrnthsnr</p>
-  </div>
+      <p></p>
+      <p> <a href="https://www.linkedin.com/in/akatarinathisner/">www.linkedin.com/in/akatarinathisner</a> </p>
+      <p> <a href="https://github.com/ktrnthsnr">github.com/ktrnthsnr</a> </p>
+      <p> <a href="https://www.linkedin.com/in/akatarinathisner/">LinkedIn for a resume</a></p>     
+    </div>
 );
 
 export default Contact;

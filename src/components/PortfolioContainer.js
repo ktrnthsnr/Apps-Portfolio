@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
-
 import NavSections from './NavSections';
-
 import AboutMe from './AboutMe';
 import Portfolio from './Portfolio';
 import Resume from './Resume';
 import Contact from './Contact';
 import "./PortfolioContainer.css";
+import Footer from './Footer';
 
 function PortfolioContainer() {
   const [currentPage, handlePageChange] = useState('AboutMe');
@@ -28,9 +27,10 @@ function PortfolioContainer() {
   return (
     <header>
       <h2>
-          <a href="https://ktrnthsnr.github.io/Apps-Portfolio/#aboutme">
-              <span role="img" aria-label=""></span>Katarina Thisner's Porfolio
-          </a>
+      {/* <a href="https://ktrnthsnr.github.io/Apps-Portfolio/#aboutme"> */}
+          {/* <a href="/"> */}
+              Katarina Thisner
+          {/* </a> */}
       </h2>
       <nav>
         <div>
@@ -40,6 +40,14 @@ function PortfolioContainer() {
         </div>
       </nav>
     </header>
+    
+    
+      // <footer>
+      //     <Footer />
+      // </footer>
+  
+    
+
   );
 }
 
