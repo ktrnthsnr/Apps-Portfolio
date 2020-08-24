@@ -25,4 +25,8 @@
 
 7. Open the site listed under your repo > Settings > GitHub Pages > URL, ie https://ktrnthsnr.github.io/Apps-Portfolio/ and verify all aspects are functioning as expected.
 
+## Contact info
+
+https://ktrnthsnr.github.io/Apps-Portfolio
+
 ### ©️2020 ktrnthsnr

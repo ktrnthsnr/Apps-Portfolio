@@ -1,6 +1,7 @@
 
 import React, { useState } from 'react';
 import { validateEmail } from '../utils/helpers';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function ContactForm() {
     const [errorMessage, setErrorMessage] = useState('');
@@ -14,7 +15,7 @@ function ContactForm() {
           // state
           setFormState({...formState, [e.target.name]: e.target.value})
 
-            // add validation for email input (place before setFormState)
+            // add validation for input (place before setFormState)
             if (e.target.name === 'email') {
                 const isValid = validateEmail(e.target.value);
                 console.log(isValid);
@@ -31,25 +32,11 @@ function ContactForm() {
                     }
                 // console.log('errorMessage', errorMessage);
             }  
-
-                
-            // message, add validation for message input (place before setFormState)
-            if (e.target.name === 'message') {
-
-            } else {
-                if (!e.target.value.length) {
-                  setErrorMessage(`${e.target.name} is required.`);
-                } else {
-                  setErrorMessage('');
-                }
-            }
-
             // with error validation
-                  if (!errorMessage) {
-                      setFormState({ ...formState, [e.target.name]: e.target.value });
-                    }            
-                }         
-                 
+            if (!errorMessage) {
+                setFormState({ ...formState, [e.target.name]: e.target.value });
+              }            
+          }          
         // console.log(formState);
         // function to handle the submission of the form
         function handleSubmit(e) {
@@ -59,6 +46,51 @@ function ContactForm() {
         
     // JSX
     return (
+      
+            // <section className="contact-form">
+            //   <table style="width:100%">
+            //     <tr>
+            //           <div>
+            //             <p></p> 
+            //             <p><h5>Contact info</h5></p>
+            //             <p></p>
+            //             <p></p>
+            //             <p></p>
+            //             <p> <a href="https://www.linkedin.com/in/akatarinathisner/">www.linkedin.com/in/akatarinathisner</a> </p>
+            //             <p> <a href="https://github.com/ktrnthsnr">github.com/ktrnthsnr</a> </p>
+            //             <p> <a href="https://www.linkedin.com/in/akatarinathisner/">LinkedIn for a resume</a></p>     
+            //           </div>
+            //     </tr>
+            //     <tr>
+                      // <form id="contact-form" onSubmit={handleSubmit}>
+                      //   <p><h5>Email me</h5></p>
+                      //       <div>
+                      //           <p>
+                      //             <label className="label" htmlFor="name">Name:</label>
+                      //             </p> 
+                      //           <p></p>
+                      //           <input type="text" defaultValue={name} onChange={handleChange} name="name" />
+                      //       </div>
+                      //       <div>                                        
+                      //           <p><label htmlFor="email">Email address:</label> </p>
+                      //           <p></p>
+                      //           <input type="email" defaultValue={email} name="email" onChange={handleChange} />
+                      //       </div>
+                      //       <div>
+                      //           <p><label htmlFor="message">Message:</label></p>
+                      //           <p></p>
+                      //           <textarea name="message" defaultValue={message} onChange={handleChange} rows="5" />
+                      //       </div>
+                      //           <p><button type="submit">Submit</button> </p>              
+                      //           {errorMessage && (
+                      //           <div>
+                      //               <p className="error-text">{errorMessage}</p>
+                      //           </div>
+                      //            )}
+                      // </form>
+            //     </tr>
+            //   </table>
+            // </section>
           <section>
               <div>
                 <p></p> 
@@ -101,7 +133,7 @@ function ContactForm() {
               </form>
 
           </section>
-    ) 
+    );  
 }
     
 export default ContactForm;
