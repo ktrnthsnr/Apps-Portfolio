@@ -119,8 +119,12 @@ margin-left: 5%;
 color: var(--tertiary)
 }
 
+/* main body card  */
 nav {
   margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
   background-color: rgb(186, 212, 229);
   /* background-color: rgb(195, 211, 195); */
 }
@@ -143,15 +147,21 @@ img {
   margin-left: 5%;
 }
 
-section div p {
-  margin-left: 0%;
-}
 
 .my-5 {
   margin-top: var(--spacing-five);
   margin-bottom: var(--spacing-five);
 }
 
+section div {
+  margin-left: 0%;
+  margin-right: 5%;
+}
+
+section div {
+  margin-left: 0%;
+  margin-right: 5%;
+}
 
 .footer {
   display: flex;
