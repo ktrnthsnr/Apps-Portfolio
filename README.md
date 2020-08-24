@@ -63,7 +63,7 @@ https://ktrnthsnr.github.io/Apps-Portfolio/
 
 ## Contribution
 
-ktrnthsnr
+* Contact info located here: https://ktrnthsnr.github.io/Apps-Portfolio
 
 ### ©️2020 ktrnthsnr
 
