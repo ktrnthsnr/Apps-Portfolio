@@ -39,15 +39,13 @@ function PortfolioContainer() {
           {/* <div style={{ backgroundImage: `url(require("/"))` }}>{renderPage(currentPage)}</div> */}
         </div>
       </nav>
-    </header>
-    
+    </header>    
     
       // <footer>
       //     <Footer />
       // </footer>
   
     
-
   );
 }
 

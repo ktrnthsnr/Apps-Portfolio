@@ -69,8 +69,8 @@ h2  {
   font-family: 'Audiowide';
   font-size: 2.50rem;
   text-indent: 5%;
-  padding-top: 2%;
-  padding-bottom: 3%;
+  padding-top: 3%;
+  padding-bottom: 0%;
   font-weight: bold;
   }
 
@@ -125,7 +125,10 @@ nav {
   margin-right: 5%;
   margin-top: 5%;
   margin-bottom: 5%;
-  background-color: rgb(186, 212, 229);
+  /* background-color: rgb(186, 212, 229); */
+  background-image: url('./assets/images/Mountains1.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
   /* background-color: rgb(195, 211, 195); */
 }
 

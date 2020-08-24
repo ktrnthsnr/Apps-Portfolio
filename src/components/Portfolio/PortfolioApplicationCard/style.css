@@ -1,5 +1,8 @@
 /* portfolio card  */
 .card {
+  padding-top:2%;
+  padding-right:1%;
+  padding-left:.5%;
   background: #fff;
   border-radius: 2px;
   height: 325px;
