@@ -1,11 +1,10 @@
 import React from "react";
 
 const Resume = () => (
-   <div>
+   <div className="indent">
      <p></p>
     <h5>Most recent full stack development skills</h5>
-    <p></p>
-    <h6>Resume available upon request</h6>
+    
     <p></p>
     <h5>Browser Based Technologies</h5>
       <ul>

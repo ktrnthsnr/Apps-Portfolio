@@ -1,7 +1,7 @@
 :root {
   --primary: #a3d4d8;
-  --secondary: rgba(113, 173, 89, 0.918);
-  --tertiary: #0d3a5f;
+  --secondary:white;
+  --tertiary: #161718;
   --quatrinary: #4292d3;
   --lightblue: rgb(106, 163, 209);
   --light: #d2dce0;
@@ -87,7 +87,7 @@ font-size: 1.5rem;
 h5 {
 font-size: 1.00rem;
 font-family: 'Montserrat', Verdana, sans-serif;
-margin-left: 5%;
+margin-left: 0%;
 font-weight: bold;
 }
 
@@ -120,8 +120,23 @@ color: var(--tertiary)
 
 nav {
   margin-left: 5%;
+  background-color: rgb(186, 212, 229);
   /* background-color: rgb(195, 211, 195); */
 }
+
+a.nav-link {
+  color: #495057;
+  font-style: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(186, 212, 229);
+}
+a.nav-link:hover {
+  color: white;
+  font-style: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(91, 154, 196);
+}
+
 
 img {
   margin-left: 5%;
@@ -148,3 +163,4 @@ section div p {
 .footer-img {
   width: 30%;
 }
+
