@@ -1,6 +1,6 @@
 ﻿# Apps-Portfolio - Katarina Thisner
 
-Personal portfolio of websites and server-side applications created this year. This website was creating using the JavaScript ReactJS web framework, state, props, Hooks, and reusable UI components.
+Personal portfolio of Node.js websites and server-side applications created this year featuring technology utilizing the MERN stack. This website was creating using the JavaScript ReactJS web framework, state, props, Hooks, and reusable UI components.
 
 ## GitHub URL
 
