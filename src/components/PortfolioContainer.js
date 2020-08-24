@@ -35,8 +35,8 @@ function PortfolioContainer() {
       <nav>
         <div>
           <NavSections currentPage={currentPage} handlePageChange={handlePageChange} />
-          {/* <div>{renderPage(currentPage)}</div> */}
-          <div style={{ backgroundImage: `url(require("./bluesq.svg"))` }}>{renderPage(currentPage)}</div>
+          <div>{renderPage(currentPage)}</div>
+          {/* <div style={{ backgroundImage: `url(require("/"))` }}>{renderPage(currentPage)}</div> */}
         </div>
       </nav>
     </header>

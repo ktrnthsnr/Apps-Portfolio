@@ -7,7 +7,7 @@ function AboutMe() {
   return (
     <section className="my-5">
         
-            <h5 className="left-heade">code sleep coffee code </h5>
+            <h5 className="left-heade">Thanks for checking out my portfolio!</h5>
             <p></p>
             <img src={aboutImage} className="my-2" style={{ width: "20%" }} alt="cover" />
             <p></p>

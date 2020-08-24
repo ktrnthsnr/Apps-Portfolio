@@ -50,7 +50,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Quattrocento', sans-serif;
+  font-family: 'Audiowide', sans-serif;
   font-weight: 500;
   margin: 5px 0;
   color: var(--tertiary);
@@ -66,8 +66,8 @@ font-size: 2.25rem;
 
 /* kt header  */
 h2  {
-  font-family: 'Quattrocento', sans-serif;
-  font-size: 1.50rem;
+  font-family: 'Audiowide';
+  font-size: 2.50rem;
   text-indent: 5%;
   padding-top: 2%;
   padding-bottom: 3%;
@@ -86,7 +86,7 @@ font-size: 1.5rem;
 
 h5 {
 font-size: 1.00rem;
-font-family: 'Roboto', Verdana, sans-serif;
+font-family: 'Montserrat', Verdana, sans-serif;
 margin-left: 5%;
 font-weight: bold;
 }
@@ -97,7 +97,7 @@ margin-left: 5%;
 }
 
 p {
-font-family: 'Mono', Tahoma, Geneva, Verdana, sans-serif;
+font-family: 'Montserrat', Tahoma, Geneva, Verdana, sans-serif;
 font-size: 1.0rem;
 margin-top: 0;
 margin-left: 5%;
@@ -106,12 +106,12 @@ margin-right: 15%;
 
 div {
   margin-left: 0%;
-  margin-right: 30%;
+  margin-right: 0%;
 }
 
 a {
 /* text-decoration: none; */
-font-family: 'Mono', sans-serif;
+font-family: 'Montserrat', sans-serif;
 font-size: 1.00rem;
 /* font-weight: lighter; */
 margin-left: 5%;
