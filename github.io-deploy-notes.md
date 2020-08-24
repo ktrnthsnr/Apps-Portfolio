@@ -24,3 +24,5 @@
 6. Update the site's settings in GitHub to `gh-pages`
 
 7. Open the site listed under your repo > Settings > GitHub Pages > URL, ie https://ktrnthsnr.github.io/Apps-Portfolio/ and verify all aspects are functioning as expected.
+
+### ©️2020 ktrnthsnr
