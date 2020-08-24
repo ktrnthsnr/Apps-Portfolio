@@ -22,7 +22,7 @@ function AboutMe() {
                 Front-end browser side technologies studies have included creating MERN stack projects hightlighted under the Portfolio tab created using VSCode, Gitbash, and Node.js JavaScript languages and npm technology including React, Apollo GraphQL, jQuery, HTML, CSS. Along with Node.js applications, our assignments had us creating and using third party APIs and uploading these projects to GitHub.   
                 </p>
                 <p>
-                And from the back-end and PaaS database perspective I've been recently building applications using the following technologies: MERN stack, React, Express.js, Heroku JawsDB, MySQL, MySQL2, SQLite, Heroku mLab, MongoDB, Mongoose.js. Devtools utilized during these exercises have included Git, npm, MySQL Workbench, and testing with Jest.
+                And from the back-end and PaaS database perspective I've been recently building applications using the following technologies: MERN stack - MongoDB\Mongoose ODM, Express.js, React, Node.js, deploying to GitHub and also Heroku with JawsDB and mLab add-ons, supported by MySQL, MySQL2, SQLite, MongoDB at the backend. Devtools utilized during these exercises have included Git, npm, MySQL Workbench, and testing with Jest.
                 </p>
                 <p>
                 The previous years my focus was centered on Azure cloud services deployment, optimization, alerting, maintenance, security, and legacy migrations from Windows Server Enterprise platforms, and IIS Manager and SQL Servers software.
