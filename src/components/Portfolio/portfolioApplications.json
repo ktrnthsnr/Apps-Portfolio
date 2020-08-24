@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "JAK Eats",
-    "image": "https://github.com/ktrnthsnr/JAK-eats/raw/master/assets/images/JAK.gif",
-    "websiteurl": "https://ktrnthsnr.github.io/JAK-eats",
-    "github": "https://github.com/ktrnthsnr/JAK-eats"
-  },
-  {
-    "id": 2,
     "name": "Dinner and a Movie",
     "image": "https://raw.githubusercontent.com/ktrnthsnr/dinner-and-movie/master/loggedinhome.jpg",
     "websiteurl": "https://ktrnthsnr-dinner-and-a-movie.herokuapp.com/",
     "github": "https://github.com/ktrnthsnr/dinner-and-movie"
+  },
+  {
+    "id": 2,
+    "name": "JAK Eats",
+    "image": "https://github.com/ktrnthsnr/JAK-eats/raw/master/assets/images/JAK.gif",
+    "websiteurl": "https://ktrnthsnr.github.io/JAK-eats",
+    "github": "https://github.com/ktrnthsnr/JAK-eats"
   },
   {
     "id": 3,
@@ -43,16 +43,16 @@
   },
   {
     "id": 7,
-    "name": "Techly Blog",
-    "image": "https://github.com/ktrnthsnr/Techly-KND/raw/master/assets/images/Techly-KND.jpg",
-    "websiteurl": "https://ktrnthsnr-techly.herokuapp.com/",
-    "github": "https://github.com/ktrnthsnr/Techly-KND"
-  },
-  {
-    "id": 8,
     "name": "The Tech Blog",
     "image": "https://github.com/ktrnthsnr/The-Tech-Blog/blob/master/img/signup.jpg?raw=true.jpg",
     "websiteurl": "https://ktrnthsnr-the-tech-blog.herokuapp.com",
     "github": "https://github.com/ktrnthsnr/The-Tech-Blog"
+  },
+  {
+    "id": 8,
+    "name": "Techly Blog",
+    "image": "https://github.com/ktrnthsnr/Techly-KND/raw/master/assets/images/Techly-KND.jpg",
+    "websiteurl": "https://ktrnthsnr-techly.herokuapp.com/",
+    "github": "https://github.com/ktrnthsnr/Techly-KND"
   }
 ]
