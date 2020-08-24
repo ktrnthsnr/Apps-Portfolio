@@ -13,7 +13,7 @@ function AboutMe() {
             <p></p>
             <div>
                 <p>
-                Living in the Pacific Northwest for over twenty years, I've worked supporting globaly-scaled, highly-availability, enterprise online applications, at both the website and database layers, in projects supporting legacy Microsoft Windows and IIS Manager\SQL Server based applications to newer Azure web services sand online websites. 
+                Living in the Pacific Northwest for over twenty years, I've worked supporting globaly-scaled, highly-available, enterprise online applications within various technology groups in the Seattle region, at both the website and database layers, in projects supporting legacy Microsoft Windows and IIS Manager\SQL Server based applications to newer Azure web services sand online websites. 
                 </p>
                 <p>
                 Last year I spent the year studying Agile Methodology and PMI, and most recently this year my university studies are focusing on full stack development. 
