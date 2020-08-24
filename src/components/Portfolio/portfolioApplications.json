@@ -8,10 +8,10 @@
   },
   {
     "id": 2,
-    "name": "Techly Blog",
-    "image": "https://github.com/ktrnthsnr/Techly-KND/raw/master/assets/images/Techly-KND.jpg",
-    "websiteurl": "https://ktrnthsnr-techly.herokuapp.com/",
-    "github": "https://github.com/ktrnthsnr/Techly-KND"
+    "name": "Dinner and a Movie",
+    "image": "https://raw.githubusercontent.com/ktrnthsnr/dinner-and-movie/master/loggedinhome.jpg",
+    "websiteurl": "https://ktrnthsnr-dinner-and-a-movie.herokuapp.com/",
+    "github": "https://github.com/ktrnthsnr/dinner-and-movie"
   },
   {
     "id": 3,
@@ -43,10 +43,10 @@
   },
   {
     "id": 7,
-    "name": "Dinner and a Movie",
-    "image": "https://raw.githubusercontent.com/ktrnthsnr/dinner-and-movie/master/loggedinhome.jpg",
-    "websiteurl": "https://ktrnthsnr-dinner-and-a-movie.herokuapp.com/",
-    "github": "https://github.com/ktrnthsnr/dinner-and-movie"
+    "name": "Techly Blog",
+    "image": "https://github.com/ktrnthsnr/Techly-KND/raw/master/assets/images/Techly-KND.jpg",
+    "websiteurl": "https://ktrnthsnr-techly.herokuapp.com/",
+    "github": "https://github.com/ktrnthsnr/Techly-KND"
   },
   {
     "id": 8,

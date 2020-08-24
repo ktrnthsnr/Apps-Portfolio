@@ -87,7 +87,8 @@ font-size: 1.5rem;
 h5 {
 font-size: 1.00rem;
 font-family: 'Montserrat', Verdana, sans-serif;
-margin-left: 0%;
+/* margin-left: 1%; */
+/* padding-left: 5%; */
 font-weight: bold;
 }
 

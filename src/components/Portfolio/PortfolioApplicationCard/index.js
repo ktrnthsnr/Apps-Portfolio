@@ -13,11 +13,13 @@ function PortfolioApplicationCard(props) {
           <li>
             <strong>Application Name:</strong> {props.name}
           </li>
-          <li>
-            <strong>Website:</strong> {props.websiteurl}
+          <li>Website:
+            {/* <strong>Website:</strong> {props.websiteurl} */}
+            <a href={props.websiteurl} target="_blank" rel="noopener noreferrer">{props.websiteurl}</a>  
           </li>
-          <li>
-            <strong>GitHub:</strong> {props.github}
+          <li>GitHub:
+            {/* <strong>GitHub:</strong> {props.github} */}
+            <a href={props.github} target="_blank" rel="noopener noreferrer">{props.github}</a>  
           </li>
         </ul>
       </div>
