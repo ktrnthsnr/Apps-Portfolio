@@ -6,7 +6,7 @@
 
 2. Update package.json, add
 
-`"homepage": "http://<username>.github.io/<sitename>",`
+`"homepage": "http://<username>.github.io/<sitename>",` or `"homepage": https://ktrnthsnr.github.io/Apps-Portfolio/`
 
 3. Update the scripts property in the package.json
 

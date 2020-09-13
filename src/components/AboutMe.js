@@ -16,13 +16,13 @@ function AboutMe() {
                 Living in the Pacific Northwest for over twenty years, I've worked supporting globaly-scaled, highly-available, enterprise online applications within various technology groups in the Seattle region, at both the website and database layers, in projects supporting legacy Microsoft Windows and IIS Manager\SQL Server based applications to newer Azure web services sand online websites. 
                 </p>
                 <p>
-                Last year I spent the year studying Agile Methodology and PMI, and most recently this year my university studies are focusing on full stack development. 
+                Last year I spent the year studying Agile Methodology and PMI. This year I have dedicated myself entirely to a UC Berkeley Extension Full Stack Web Development 24 week intensive certification course. 
                 </p>
                 <p>
-                Front-end browser side technologies studies have included creating MERN stack projects hightlighted under the Portfolio tab created using VSCode, Gitbash, and Node.js JavaScript languages and npm technology including React, Apollo GraphQL, jQuery, HTML, CSS. Along with Node.js applications, our assignments had us creating and using third party APIs and uploading these projects to GitHub.   
+                Front-end browser side technologies studied include: creating MERN stack projects hightlighted under the Portfolio tab which were created using VSCode, Gitbash, and Node.js JavaScript languages and npm technology including React, Apollo GraphQL, jQuery, HTML, CSS. Along with Node.js applications, our assignments had us creating and using third party APIs and uploading these projects to GitHub.   
                 </p>
                 <p>
-                And from the back-end and PaaS database perspective I've been recently building applications using the following technologies: MERN stack - MongoDB\Mongoose ODM, Express.js, React, Node.js, deploying to GitHub and also Heroku with JawsDB and mLab add-ons, supported by MySQL, MySQL2, SQLite, MongoDB at the backend. Devtools utilized during these exercises have included Git, npm, MySQL Workbench, and testing with Jest.
+                Back-end technology utilized in the 24 week coding certification course included building applications using the following technologies: MERN stack - MongoDB\Mongoose ODM, Express.js, React, Node.js, deploying to GitHub and also Heroku with JawsDB and mLab add-ons, supported by MySQL, MySQL2, SQLite, MongoDB at the backend. Devtools utilized during these exercises have included Git, npm, MySQL Workbench, and testing with Jest.
                 </p>
                 <p>
                 The previous years my focus was centered on Azure cloud services deployment, optimization, alerting, maintenance, security, and legacy migrations from Windows Server Enterprise platforms, and IIS Manager and SQL Servers software.
@@ -32,9 +32,9 @@ function AboutMe() {
                 <p></p>
                 <p></p>
                 
-                <a href="https://www.linkedin.com/in/akatarinathisner/">www.linkedin.com/in/akatarinathisner</a> 
+                <a href="https://www.linkedin.com/in/katarinathisner/">https://www.linkedin.com/in/katarinathisner/</a> 
                 <p></p>
-                <a href="https://github.com/ktrnthsnr">github.com/ktrnthsnr</a> 
+                <a href="https://github.com/ktrnthsnr">https://github.com/ktrnthsnr</a> 
             </div>            
     </section>
   );

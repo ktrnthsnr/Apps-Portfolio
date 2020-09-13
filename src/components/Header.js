@@ -4,7 +4,7 @@ const Header = () => (
   <div>
     <h1>Header</h1>
     <p>
-      in work..
+      (removed)
     </p>
   </div>
 );

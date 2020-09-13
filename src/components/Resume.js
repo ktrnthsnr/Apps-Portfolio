@@ -77,7 +77,7 @@ const Resume = () => (
     </p>
     <p></p>
     <p></p>
-    <a href="https://www.linkedin.com/in/akatarinathisner/">www.linkedin.com/in/akatarinathisner</a> 
+    <a href="https://www.linkedin.com/in/katarinathisner/">https://www.linkedin.com/in/katarinathisner/</a> 
     <p></p>
     <a href="https://github.com/ktrnthsnr">github.com/ktrnthsnr</a>
   </div>

@@ -47,14 +47,16 @@ React, Node.js, JavaScript, ES6npm, create-react-app, React Testing Library, jes
 
 ## Usage
 
-- The application has been published to GitHub through React `npm run deploy`
+- The application has been published to GitHub through React. See the github.io-deploy-notes.md for further instruction.
 https://ktrnthsnr.github.io/Apps-Portfolio/
 
 ![insert](./KThisnerPortfolio.jpg "insert")
 
-- To view the site locally, run 
+- To view the site locally, run the following within the bash terminal,
 - $ `npm start`
-- Then browse the React development app server, at `http://localhost:3000`
+- Then browse the React development app server, at `http://localhost:3000/Apps-Portfolio`
+- Any changes you make within VSCode will be updated on the localhost immediately. 
+- When ready to deploy, see the github.io-deploy-notes.md for further instruction.
 
 
 ## React
